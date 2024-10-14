@@ -2,7 +2,7 @@
 
 ## 介绍
 
-这里是一名普通的 Microsoft .NET 技术爱好者。这里比较喜欢Windows平台下的开发，目前会 Java、C#、C 这些语言，这里现在也正在学习 Python、C++、JavaScript 等语言和 Winform、.NET WPF 、Qt 等桌面框架。
+这里是一名普通的 Microsoft .NET 技术爱好者（还在上高中的屑）。这里比较喜欢Windows平台下的开发，目前会 Java、C#、C 这些语言，这里现在也正在学习 Python、C++、JavaScript 等语言和 Winform、.NET WPF 、Qt 等桌面框架。
 这里还是一名 [ClassicByte](https://github.com/ClassicByteInc/) 团队的一位成员。
 
 ## 联系方式

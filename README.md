@@ -7,13 +7,10 @@
 
 这里还是一名 [ClassicByte](https://github.com/ClassicByteInc/) 团队的一位成员。-->
 
-.NET 忠实爱好者
-
-[ClassicByte](https://github.com/ClassicByteInc/)
+[ClassicByte](https://github.com/ClassicByteOrg/)
 
 ## 联系方式
 - Higashitani 的🐧：```3433559280```
-- 合作请联系 📫 ```shimikoiku@outlook.com```
 <!---
 higashitaniyume/higashitaniyume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

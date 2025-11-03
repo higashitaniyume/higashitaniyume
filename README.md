@@ -1,6 +1,6 @@
 # Hi 👋, I'm Higashitani Yume
 
-### 💻 一名专注于独立开发的**软件工程师**
+### 一名普通独立开发者
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higashitaniyume&label=Profile views&color=0e75b6&style=flat" alt="higashitaniyume" /> </p>
 
@@ -10,9 +10,7 @@
 
 ---
 
-### **探索与成长 🚀**
-
-* 🌱 **当前重点学习领域：** 致力于深入掌握 **.NET、ASP.NET Core、Avalonia、Web 技术 (JavaScript)** 以及 **Windows 桌面应用开发**。
+* 🌱 **当前学习：** **.NET、ASP.NET Core、Avalonia、Web 技术 (JavaScript)** 以及 **Windows 桌面应用开发**。
 * 🤝 **寻求协作与帮助：** 欢迎交流和指导有关**网络知识**方面和**数据库**方面的学习和实践经验。
 * 📫 **联系方式：** **higashitaniyume@gmail.com**
 *  **加qq群一起来讨论和交流吧~**：**1067254386**

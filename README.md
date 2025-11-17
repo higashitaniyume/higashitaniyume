@@ -12,7 +12,7 @@
 
 <p align="left">
 <a href="https://github.com/higashitaniyume" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="higashitaniyume" height="30" width="40" /></a>
-<a href="https://twitter.com/hybridhyrein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hybridhyrein" height="30" width="40" /></a>
+<a href="https://twitter.com/hyumerin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hybridhyrein" height="30" width="40" /></a>
 <a href="https://discord.gg/hybridhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hybridhy" height="30" width="40" /></a>
 </p>
 

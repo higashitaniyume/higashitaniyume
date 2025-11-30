@@ -1,13 +1,5 @@
 # Hi , I'm Higashitani Yume
 
-### 一名普通独立开发者
-
----
-
-* **主要学习**：**.NET** 和 **Windows 桌面开发**
-
----
-
 ### **联系方式**
 
 <p align="left">

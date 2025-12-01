@@ -1,10 +1,14 @@
+#
+# 此代码是用来把fo们的头像拼起来成一个超大的图片的python脚本。
+# 你可以随意使用这里面的代码，可以不经过我的许可，也不需要署名或者保留这个注释，这个代码是自由使用的~
+#
 import os
 import time
 from PIL import Image
 
 
 def make_grid_from_latest(rows, cols, base_folder="."):
-    latest_folder = "./2025"
+    latest_folder = base_folder
     print(f"使用文件夹: {latest_folder}")
     
     img_files = [os.path.join(latest_folder, f) for f in os.listdir(latest_folder) 
@@ -32,4 +36,4 @@ def make_grid_from_latest(rows, cols, base_folder="."):
     print(f"拼图完成，保存为 {output_file}")
 
 if __name__ == "__main__":
-    make_grid_from_latest(rows=11, cols=11, base_folder=".")
+    make_grid_from_latest(rows=11, cols=11, base_folder="./2025")

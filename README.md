@@ -3,22 +3,6 @@
 
 <!-- 这里来看[我想做的事情（我没实现的事情）](./TODO.md) -->
 
-
-### **技术栈与工具箱**
-
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xamarin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" alt="xamarin" width="40" height="40"/> </a></p>
-
----
-
-### **我的 GitHub 统计信息**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=higashitaniyume&show_icons=true&locale=en&layout=compact&title_color=0e75b6&text_color=333&icon_color=0e75b6&bg_color=ffffff&border_color=e7e7e7" alt="higashitaniyume" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=higashitaniyume&show_icons=true&locale=en&title_color=0e75b6&text_color=333&icon_color=0e75b6&bg_color=ffffff&border_color=e7e7e7" alt="higashitaniyume" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higashitaniyume&title_color=0e75b6&text_color=333&icon_color=0e75b6&background=ffffff&border=e7e7e7" alt="higashitaniyume" /></p>
-
-
 <!-- 
     关于我的爱好嘛，就是拉超大音量听喜欢听的歌嘛，然后就是想一些自己喜欢的事情。
     我也希望你能来了解我嘛

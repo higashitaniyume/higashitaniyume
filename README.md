@@ -1,23 +1,8 @@
 # Hi , I'm Higashitani Yume
 ---
-### **联系方式**
-
-<p align="left">
-<a href="https://github.com/higashitaniyume" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="higashitaniyume" height="30" width="40" /></a>
-<a href="https://twitter.com/hyumerin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hybridhyrein" height="30" width="40" /></a>
-<a href="https://discord.gg/hybridhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hybridhy" height="30" width="40" /></a>
-</p>
-
----
-### **X上互fo们的头像捏（拼图）👇**
-
-![20251201更新的116个互fo](./X_Followers/output/grid_20251201_090845.jpg)
-
-这里来看[100fo纪念文章](./X_Followers/100fo纪念文章.md)
 
 <!-- 这里来看[我想做的事情（我没实现的事情）](./TODO.md) -->
 
-<!-- ---
 
 ### **技术栈与工具箱**
 
@@ -33,7 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higashitaniyume&title_color=0e75b6&text_color=333&icon_color=0e75b6&background=ffffff&border=e7e7e7" alt="higashitaniyume" /></p>
 
---- -->
 
 <!-- 
     关于我的爱好嘛，就是拉超大音量听喜欢听的歌嘛，然后就是想一些自己喜欢的事情。
